@@ -1,3 +1,4 @@
+# 发工资
 import money
 
 def send():

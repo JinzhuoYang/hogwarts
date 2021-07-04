@@ -1,3 +1,4 @@
+# 查询工资
 import money
 
 def select():
