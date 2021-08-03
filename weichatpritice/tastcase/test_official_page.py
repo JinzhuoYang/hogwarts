@@ -10,6 +10,6 @@ class TestOfficialPage:
 
     def test_goto_register(self):
         self.official.goto_register().register()
-
+ 
     def test_goto_login_goto_register(self):
         self.official.goto_login().goto_register().register()
